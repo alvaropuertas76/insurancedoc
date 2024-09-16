@@ -1,5 +1,5 @@
 # insurancedoc
-Insurance Documents for Zurich 
+Insurance Documents for Insurance Company 
 
 **PowerPoint Presentation:**
 - Develop a presentation that explains the solution to business stakeholders. 
